@@ -7,7 +7,7 @@ With this tool you may update a database! Enjoy!
 
 ## How to use
 
-You will need to create a .env file and initiate mySQL as seen in this [video](https://youtu.be/rEool94YysA). Follow all steps to reproduce the post, update, get and delete requests.
+You will need to create a .env file and initiate mySQL as seen in this [video](https://youtu.be/BS0ABjfi3u4). Follow all steps to reproduce the post, update, get and delete requests.
 
 ## Screenshot of app result
 
