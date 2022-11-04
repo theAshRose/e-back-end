@@ -132,7 +132,7 @@ router.delete('/:id', async (req, res) => {
         }
       }
     );
-    res.status(200).json(proData);
+    res.status(200).json({message: "Succesfull deletion "+proData});
   } catch (err) {
     res.status(500).json(err)
   }
